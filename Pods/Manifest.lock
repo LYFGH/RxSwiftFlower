@@ -1,0 +1,33 @@
+PODS:
+  - IQKeyboardManager (6.2.1)
+  - MBProgressHUD (1.1.0)
+  - RxCocoa (4.5.0):
+    - RxSwift (>= 4.4.2, ~> 4.4)
+  - RxSwift (4.5.0)
+  - TZImagePickerController (3.2.0)
+
+DEPENDENCIES:
+  - IQKeyboardManager
+  - MBProgressHUD
+  - RxCocoa
+  - RxSwift
+  - TZImagePickerController
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - IQKeyboardManager
+    - MBProgressHUD
+    - RxCocoa
+    - RxSwift
+    - TZImagePickerController
+
+SPEC CHECKSUMS:
+  IQKeyboardManager: 964638372b4a61892cc74fdfa6fd26de8c9464a2
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+  RxCocoa: cbf70265dc65a981d4ac982e513c10cf23df24a0
+  RxSwift: f172070dfd1a93d70a9ab97a5a01166206e1c575
+  TZImagePickerController: 7850b158d025065b162a1a963d445040b828abc9
+
+PODFILE CHECKSUM: 0f6a5c61c15a975e19602a70f6724954a2345c1e
+
+COCOAPODS: 1.6.1
